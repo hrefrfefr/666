@@ -3,7 +3,7 @@ import os
 import random
 
 size = width, height = 500, 500
-pygame.display.set_caption('Платформы')
+pygame.display.set_caption('Столкновение шариков')
 screen = pygame.display.set_mode(size)
 clock = pygame.time.Clock()
 
